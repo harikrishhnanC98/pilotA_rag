@@ -8,6 +8,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline to chunk
 - **rag_pipeline.py**: Python file version of the segmentation and RAG logic, used to support the UI(not required to run separately).
 - **app.py**: Streamlit script for the web-based user interface.
 - **pilotA_rag_ui.ipynb**: Notebook for running and displaying the Mini-UI (using ipywidgets or Streamlit setup).
+- **streamlit_ui.png** : Screenshot from the streamlit UI containing the querying part and results.
 
 ## Setup Instructions
 
