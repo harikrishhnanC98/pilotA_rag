@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Welche weiterführende Bildgebung ist indiziert bei persistierenden Hüftschmerzen über 6 Wochen trotz unauffälligem Röntgenbefund?",
+    "answer_reference": "Empfehlung: MRT bei persistierenden Beschwerden mit unauffälligem Röntgenbefund."
+  },
+  {
+    "question": "Wann sollte eine MRT beider Hüftgelenke durchgeführt werden?",
+    "answer_reference": "Empfehlung: MRT beider Hüften bei einseitiger Femurkopfnekrose im ARCO Stadium I-IV."
+  },
+  {
+    "question": "Welche Klassifikation wird zur Stadieneinteilung der atraumatischen Femurkopfnekrose empfohlen?",
+    "answer_reference": "Empfehlung: Nutzung der modifizierten ARCO-Klassifikation."
+  },
+  {
+    "question": "Wie sollte bei Verdacht auf eine subchondrale Fraktur im ARCO Stadium II, aber unklarer Diagnostik, weiter vorgegangen werden?",
+    "answer_reference": "Empfehlung: Durchführung einer CT zur Klärung der subchondralen Fraktur."
+  },
+  {
+    "question": "Sollte eine Szintigraphie zur Diagnostik der atraumatischen Femurkopfnekrose eingesetzt werden?",
+    "answer_reference": "Empfehlung: Szintigraphie wird nicht zur Diagnostik der atraumatischen Femurkopfnekrose empfohlen."
+  },
+  {
+    "question": "Wie differenziert man im MRT zwischen einem transitorischen Knochenmarködem und einer Osteonekrose?",
+    "answer_reference": "Empfehlung: MRT-Muster und klinischer Verlauf sind entscheidend für die Differenzierung."
+  },
+  {
+    "question": "Welche bildgebende Methode gilt als Goldstandard in der Diagnostik der atraumatischen Femurkopfnekrose?",
+    "answer_reference": "Empfehlung: MRT als Goldstandard."
+  },
+  {
+    "question": "Welche Bildgebung eignet sich am besten zur Detektion einer subchondralen Fraktur?",
+    "answer_reference": "Empfehlung: CT für die Darstellung subchondraler Frakturen."
+  },
+  {
+    "question": "Welche Risikofaktoren sprechen für eine bilaterale Beteiligung bei Femurkopfnekrose?",
+    "answer_reference": "Empfehlung: Einseitige Femurkopfnekrose erhöht das Risiko für bilaterale Erkrankung; Risikofaktoren beachten."
+  },
+  {
+    "question": "Welche röntgenologischen Befunde charakterisieren das ARCO Stadium III?",
+    "answer_reference": "Empfehlung: Zeichen der subchondralen Fraktur mit beginnender Gelenkflächeninkongruenz im Röntgenbild."
+  }
+]
